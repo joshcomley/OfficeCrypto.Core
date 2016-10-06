@@ -13,7 +13,7 @@ using System.IO;
  * - NPOI is Apache 2.0 license
  *   http://npoi.codeplex.com/
  */
-namespace OfficeOpenXmlCrypto
+namespace OfficeOpenXml.Core.OfficeCrypto
 {
     /// <summary>
     /// Provides Office 2007 encryption service.

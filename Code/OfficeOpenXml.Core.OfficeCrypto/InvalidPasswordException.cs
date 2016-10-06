@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace OfficeOpenXmlCrypto
+namespace OfficeOpenXml.Core.OfficeCrypto
 {
     public class InvalidPasswordException : Exception
     {

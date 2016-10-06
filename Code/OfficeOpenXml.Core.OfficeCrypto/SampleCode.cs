@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.Text;
 using System.IO;
 
-namespace OfficeOpenXmlCrypto.Test
+namespace OfficeOpenXml.Core.OfficeCrypto.Test
 {
     public static class SampleCode
     {

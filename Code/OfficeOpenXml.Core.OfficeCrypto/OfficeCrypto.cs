@@ -45,8 +45,9 @@ using System.Runtime.InteropServices;
 using System.IO.Packaging;
 using System.IO;
 using System.Security.Cryptography;
+using OfficeOpenXml.Core.OfficeCrypto;
 
-namespace OfficeOpenXmlCrypto
+namespace OfficeOpenXml.Core.OfficeCrypto
 {
 	/// <summary>
 	/// This class tries to implement the algorithms documents in MS-OFFCRYPTO 2.3.4.7-2.3.4.9.

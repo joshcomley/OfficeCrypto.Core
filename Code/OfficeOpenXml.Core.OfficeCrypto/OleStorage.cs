@@ -1,7 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using NPOI.POIFS.FileSystem;
+﻿using Npoi.Core.POIFS.FileSystem;
+using System;
 using System.IO;
 
 /*
@@ -14,7 +12,7 @@ using System.IO;
  * - NPOI is Apache 2.0 license
  *   http://npoi.codeplex.com/
  */
-namespace OfficeOpenXmlCrypto
+namespace OfficeOpenXml.Core.OfficeCrypto
 {
     /// <summary>
     /// Access to OLE Compound Storage file.
